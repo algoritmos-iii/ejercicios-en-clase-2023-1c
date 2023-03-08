@@ -1,2 +1,2 @@
 # ejercicios-en-clase-2023-1c
-Ejercicios para trabajar en clase
+Ejercicios varios que hacemos durante las clases, para practicar.
